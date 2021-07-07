@@ -15,6 +15,7 @@ function help() {
   echo "  f - frequency of clicking in seconds. Default '1'"
   echo "  m - hold button instead of click. Default 'false'"
   echo "  d - don't hold secondary button (e.g. eat). Default 'true'"
+  echo "  h - show help"
 
   exit
 }

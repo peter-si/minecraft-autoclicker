@@ -9,3 +9,4 @@ Optional parameters:
 * f - frequency of clicking in seconds. Default '1'
 * m - hold button instead of click. Default 'false'
 * d - don't hold secondary button (e.g. eat). Default 'true'
+* h - show help
