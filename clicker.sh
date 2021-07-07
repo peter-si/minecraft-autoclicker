@@ -5,7 +5,6 @@ frequency=1
 primaryMouseButton=1
 secondaryMouseButton=3
 disableSecondary=
-holdButton=
 buttonAction="click"
 
 function help() {
